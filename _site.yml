@@ -1,0 +1,19 @@
+name: "MTH-202A"
+output_dir: "docs"
+navbar:
+  title: "MTH-202A"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Pacing Plan"
+      href: tba.html
+
+output:
+  html_document:
+    theme: yeti
+    lib_dir: site_libs
+    toc: true
+    toc_float: true
+    
