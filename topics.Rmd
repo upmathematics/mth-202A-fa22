@@ -19,10 +19,10 @@ The "Reading" column in the table below contains a number on which it refers to 
 
 | **Week** | **Day** |                    **Topic**                   |  **Reading**  |     **WeBWork**    | **Deadline** |
 |:--------:|:-------:|:----------------------------------------------:|:-------------:|:------------------:|:------------:|
-|   **1**  |  8/29 M |        Orientation \& Calculus I review        |    Syllabus   | Integration Review |     8/30     |
-|          |  8/31 W |                  5.1 Sequences                 | [CV2] Ch. 5.1 |     Section 5.1    |      9/1     |
-|          |  9/1 Th |           5.1 Sequences \& 5.2 Series          | [CV2] Ch. 5.2 |     Section 5.2    |      9/2     |
-|          |  9/2 F  | 5.2 Series \& 5.3 Divergence and Integral Test | [CV2] Ch. 5.3 |     Section 5.3    |      9/3     |
+|   **1**  |  8/29 M |        Orientation \& Calculus I review        |    Syllabus   | Integration Review |    8/30 Tu   |
+|          |  8/31 W |                  5.1 Sequences                 | [CV2] Ch. 5.1 |     Section 5.1    |    9/1 Th    |
+|          |  9/1 Th |           5.1 Sequences \& 5.2 Series          | [CV2] Ch. 5.2 |     Section 5.2    |     9/2 F    |
+|          |  9/2 F  | 5.2 Series \& 5.3 Divergence and Integral Test | [CV2] Ch. 5.3 |     Section 5.3    |    9/3 St    |
 
 <br>
 
