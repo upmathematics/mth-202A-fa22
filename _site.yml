@@ -6,8 +6,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Syllabus"
-      href: syllabus.html
-    - text: "Pacing Plan"
+      href: tba.html
+    - text: "topics"
       href: tba.html
 
 output:

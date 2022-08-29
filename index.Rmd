@@ -10,7 +10,7 @@ subtitle: "Fall 2022 - University of Portland"
 | Page                                         | Contents                                                                             |
 |----------------------------------------------|--------------------------------------------------------------------------------------|
 | [Home](index.html)          | -                                                                                    |
-| [Syllabus](syllabus.html)   | About the class, class materials and resources, class assessment and expectations |
+| [Syllabus](tba.html)   | About the class, class materials and resources, class assessment and expectations |
 | [Topics](tba.html) | Tentative topics, notes, assignments, and books and online resources list        |
 
 <br>
@@ -35,6 +35,12 @@ subtitle: "Fall 2022 - University of Portland"
 
 <br>
 
+### Final Exam
+
+  * **Final Exam:** December 15, Th 1:30 PM - 3:30 PM <br>
+
+<br>
+
 ### Help Hours
 
 * Alex John Quijano
@@ -43,6 +49,19 @@ subtitle: "Fall 2022 - University of Portland"
     * TuTh, 4:00 PM - 5:00 PM
   * One-to-One (Buckley Center 279 or in Teams)
     * MWF, 2:00 PM - 5:00 PM ([sign-up for a 30-minute session](https://calendly.com/alexjohnquijano/quijano-fa22-scheduled-help-hours){target="_blank"})
+
+<br>
+
+### Getting Help
+
+Don't hesitate to ask for assistance! I have help hours specifically in place because I want you to succeed, and the best place to connect with questions is one-on-one. If you can’t make it to my posted help hours, let me know and we can find another time. Other help options include:
+
+  * Post your question to the class Teams Question-Answering channel
+  * Get together with classmates to study together
+  * Drop by the [Math Resource Center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"}, which offers both drop-in and appointment-based tutoring.
+  * Google it. If you find a resource helpful, let me know.
+
+I understand that life happens, and illness, depression, family, relationships can disrupt our lives. When something arises, REACH OUT! I want to be able to support you in this course, and can only do so if you let me know.
 
 <br>
 
@@ -56,18 +75,24 @@ The main textbook is [Probability, Statistics, and Data: A fresh approach using 
 
 <br>
 
-### Scientific Calculator
+### Graphing Calculator
 
-TBW
+We will be using Desmos as our online graphing calculator. Use your UP email to sign-up for a free Desmos account and join our Desmos class [MTH-202A: Calculus II [Quijano]](https://student.desmos.com/?prepopulateCode=h9ws7k){target="_blank"}. If you need the Desmos class code, use **h9ws7k**.
+
+<br>
+
+### WeBWork
+
+We will be using WeBWork for homework assignments. You are already on WebWork. So, you just need to log in using your UP credentials at [MTH202-Quijano-F22](https://webwork.up.edu/webwork2/MTH202-Quijano-F22/){target="_blank"}.
 
 <br>
 
 ### Microsoft Teams
 
-We will be using Teams [MTH-202A-fa22](https://teams.microsoft.com/l/team/19%3aw-Iaw1CKlsPRFqDyxcZRP23Cb8419xbh_A1qpxpAUGg1%40thread.tacv2/conversations?groupId=eafdf792-edc0-46bc-b836-5833b40d67d4&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"} as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. <span style="color:red">Please signup for the course Teams using your UP credentials along with this Teams code: **u791pua**.</span>
+<span style="color:red">We will be using Teams [mth-202a-fa22](https://teams.microsoft.com/l/team/19%3aZWmNLgAQL0Vt__PZ2qLdmGNPJB0r6ChJXXVf2lzsT-E1%40thread.tacv2/conversations?groupId=e41b3e0c-9f5c-4496-a6a4-e51b0941d10e&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"} as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages.</span> I added you to the Teams page already so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance. If you need the Teams code for this class, use **u791pua**.
 
 <span style="color:red">Please check the class Teams regularly.</span> If you need to have Teams notifications sent to your email, please set up your email preferences within Teams.
 
-<span style="color:red">If you prefer communicating through email, note that I had has set up an email filter for this course and you must put the “MTH 202” keyword in your subject line.</span> It is easy for me to get notice of your email if you put the keyword in the subject line. Concise and specific messages are helpful so I know how I can best help you.
+<span style="color:red">If you prefer communicating through email, note that I had set up an email filter for this course and you must put the “MTH 202” keyword in your subject line.</span> It is easy for me to get notice of your email if you put the keyword in the subject line. Concise and specific messages are helpful so I know how I can best help you.
 
 <br>
