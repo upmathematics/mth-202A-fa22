@@ -71,7 +71,7 @@ I understand that life happens, and illness, depression, family, relationships c
 
 ### Textbook
 
-The main textbook is [Probability, Statistics, and Data: A fresh approach using R](https://mathstat.slu.edu/~speegle/_book/){target="_blank"} by Darrin Speegle and Bryan Clair. The textbook is free and open-source. We will also use other supplementary books and resources throughout the course (please see the [Topics Schedule](topics.html)).
+The main textbook is [Calculus Volume 2 ](https://openstax.org/details/calculus-volume-2){target="_blank"} by Gilbert Strang, Edwin “Jed” Herman et. al. The textbook is free and open-source.
 
 <br>
 
