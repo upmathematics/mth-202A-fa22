@@ -86,9 +86,9 @@ knitr::include_graphics('images/mth-202-learning-objectives.png')
 
 <br>
 
-### Learning outcomes
+### Learning Outcomes
 
-```{r echo=FALSE, out.width='100%'}
+```{r echo=FALSE, out.width='85%', fig.align='center'}
 knitr::include_graphics('images/mth-202-learning-targets.png')
 ```
 
@@ -227,7 +227,7 @@ knitr::include_graphics('images/mth-202-assessment-standards.png')
 ### Final Grades
 
 ```{r echo=FALSE, out.width='100%'}
-knitr::include_graphics('images/mth-202-final-grade.png')
+knitr::include_graphics('images/mth-202-final-grades.png')
 ```
 
 Note that these percentages are guidelines more than hard and fast rules. I will consider the entire body of your work when making these determinations, and this will also be informed by your own self-assessments. I will never impose standards higher than those outlined in the table but reserve the right to round down the needed minimum percentages (in a way that favors you).
