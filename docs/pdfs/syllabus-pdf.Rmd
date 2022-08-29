@@ -1,6 +1,19 @@
 ---
 title: '**MTH 202A Syllabus**'
 subtitle: "Fall 2022 - University of Portland"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 202A Calculus II - Syllabus}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: yes
+    number_section: no
+urlcolor: blue
+link-citations: yes
 ---
 
 <br>
@@ -155,7 +168,7 @@ The syllabus, tentative topics schedule, lecture slides, assignments, mini-proje
 
 ### Assignments
 
-  * **Homework:** lasting, automatic procedures. For most sections, you will be required to complete an online homework via WeBWork. Homework is due Monday, Wednesday, or Friday due 24 hours after it was posted. Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
+  * **Homework:** lasting, automatic procedures. For most sections, you will be required to complete an online homework via WebWork. Homework is due Monday, Wednesday, or Friday due 24 hours after it was posted. Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
   
   * **Proficiency Quizzes:** Weekly proficiency quizzes provide opportunities to demonstrate your understanding of the course learning targets. Each quiz will include 2-3 learning targets as well as the option to reassess past targets. Proficiency should be attained twice for each learning target.
   

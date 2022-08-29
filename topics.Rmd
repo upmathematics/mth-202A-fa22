@@ -1,0 +1,37 @@
+---
+title: "Tentative Topics Schedule"
+subtitle: "Fall 2022 - University of Portland"
+---
+
+<br>
+
+<center>**- See Books & Online Resources List for the reading materials -**</center>
+<center><span style="color:red">**The readings are not mandatory but it is encouraged.**</span></center>
+<center><span style="color:red">**Lecture slides will be available the day before class.**</span></center>
+
+<br>
+
+The "Reading" column in the table below contains a number on which it refers to a numbered item in the Books & Online Resources List. For example "[CV2]" refers to the first item in the list, which is our main text book titled "Calculus Volume 2". 
+
+<br>
+
+## **Topics and Reading Materials**
+
+| **Week** | **Day** |             **Topic**            | **Reading** |     **WebWork**    | **Deadline** |
+|:--------:|:-------:|:--------------------------------:|:-----------:|:------------------:|:------------:|
+|   **1**  |  8/29 M | Orientation \& Calculus I review |   Syllabus  | Integration Review |     8/30     |
+|          |  8/31 W |                TBA               |     TBA     |         TBA        |      TBA     |
+|          |  9/1 Th |                TBA               |     TBA     |         TBA        |      TBA     |
+|          |  9/2 F  |                TBA               |     TBA     |         TBA        |      TBA     |
+
+<br>
+
+## **Books & Online Resources Lists**
+
+<br>
+
+### Main Textbook
+
+[CV2]   [Herman, E., Strang, G., Radulovich, W., Rutter, E. A., Smith, D., Messer, K. R., ... & McCune, D. (2016). Calculus Volume 2.](https://openstax.org/books/calculus-volume-2/pages/preface){target="_blank"}
+
+<br>

@@ -10,8 +10,8 @@ subtitle: "Fall 2022 - University of Portland"
 | Page                                         | Contents                                                                             |
 |----------------------------------------------|--------------------------------------------------------------------------------------|
 | [Home](index.html)          | -                                                                                    |
-| [Syllabus](tba.html)   | About the class, class materials and resources, class assessment and expectations |
-| [Topics](tba.html) | Tentative topics, notes, assignments, and books and online resources list        |
+| [Syllabus](syllabus.html)   | About the class, class materials and resources, class assessment and expectations |
+| [Topics](topics.html) | Tentative topics, notes, assignments, and books and online resources list        |
 
 <br>
 
@@ -83,7 +83,7 @@ We will be using Desmos as our online graphing calculator. Use your UP email to 
 
 ### WeBWork
 
-We will be using WeBWork for homework assignments. You are already on WebWork. So, you just need to log in using your UP credentials at [MTH202-Quijano-F22](https://webwork.up.edu/webwork2/MTH202-Quijano-F22/){target="_blank"}.
+We will be using WeBWork for homework assignments. You are already on WeBWork. So, you just need to log in using your UP credentials at [MTH202-Quijano-F22](https://webwork.up.edu/webwork2/MTH202-Quijano-F22/){target="_blank"}.
 
 <br>
 

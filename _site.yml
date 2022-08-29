@@ -6,9 +6,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Syllabus"
-      href: tba.html
+      href: index.html
     - text: "topics"
-      href: tba.html
+      href: topics.html
 
 output:
   html_document:
