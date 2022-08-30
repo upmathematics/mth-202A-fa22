@@ -162,17 +162,17 @@ The University of Portland endeavors to make its courses and services fully acce
 
 ### Class Website
 
-The syllabus, tentative topics schedule, lecture slides, assignments, mini-project information, and all other class materials are posted on the [course website](https://upmathematics.github.io/mth-202a-fa22/) - the website can be viewed in Teams.
+The syllabus, tentative topics schedule, lecture slides, assignments, and all other class materials are posted on the [course website](https://upmathematics.github.io/mth-202a-fa22/) - the website can be viewed in Teams.
 
 <br>
 
 ### Assignments
 
-  * **Homework:** lasting, automatic procedures. For most sections, you will be required to complete an online homework via WebWork. Homework is due Monday, Wednesday, or Friday due 24 hours after it was posted. Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
+  * **Homework:** For most sections, you will be required to complete an online homework via WebWork. Homework is due Monday, Wednesday, or Friday due 24 hours after it was posted. Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
   
-  * **Proficiency Quizzes:** Weekly proficiency quizzes provide opportunities to demonstrate your understanding of the course learning targets. Each quiz will include 2-3 learning targets as well as the option to reassess past targets. Proficiency should be attained twice for each learning target.
+  * **Proficiency Quizzes:** Weekly proficiency quizzes provide opportunities to demonstrate your understanding of the course learning targets. Each quiz will include 2-3 learning targets as well as the option to reassess past targets. Proficiency should be attained twice for each learning target. Most Quizzes are written and submitted in-person. Take home quizzes are submitted as a pdf file in Teams Assignments.
   
-  * **Labs:** Semi-weekly labs will be due on Wednesdays at 5pm. Lab problems should be either typed or written and submitted as a pdf file in Teams Assignments. These labs are part of the Core Assessment, and will have common grading across all MTH 202 sections. Labs will be graded on three components:
+  * **Labs:** Semi-weekly labs will be due on Wednesdays at end-of-day. Lab problems should be either typed or written and submitted as a pdf file in Teams Assignments. These labs are part of the Core Assessment, and will have common grading across all MTH 202 sections. Labs will be graded on three components:
     - *Validity:* Is the method correct? Is the final solution correct?
     - *Explanation:* Is the solution method well explained? Is the reasonableness of the solution justified?
     - *Representation:* Is the solution process clearly written? Is the solution supported with appropriate graphs/diagrams/equations? Is mathematical notation used clearly and correctly?
