@@ -20,7 +20,7 @@ link-citations: yes
 
 <center>**- See Books & Online Resources List for the reading materials -**</center>
 <center><span style="color:red">**The readings are not mandatory but it is encouraged.**</span></center>
-<center><span style="color:red">**Lecture slides will be available the day before class.**</span></center>
+<center><span style="color:red">**Lecture slides will be available after class.**</span></center>
 
 <br>
 
