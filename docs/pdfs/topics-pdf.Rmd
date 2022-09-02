@@ -30,16 +30,16 @@ The "Reading" column in the table below contains a number on which it refers to 
 
 ## **Topics and Reading Materials**
 
-| **Week** | **Day** |                    **Topic**                   |     **Reading [CV2]**    |     **WeBWork**    |          **Quiz**         | **Lab** |
+| **Week** | **Day** |                    **Topic**                   |     **Reading [CV2]**    |     **WeBWork**    |          **Activity**         | **Lab** |
 |:--------:|:-------:|:----------------------------------------------:|:------------------------:|:------------------:|:-------------------------:|:-------:|
-|   **1**  | 8/29(M) |        Orientation \& Calculus I review        |         Syllabus         | Integration Review |             -             |    -    |
+|   **1**  | 8/29(M) |        Orientation \& Calculus I review        |         Syllabus         | Integration Review |         Integral/Anti-Derivative Dominoes             |    -    |
 |          | 8/31(W) |                  5.1 Sequences                 |          Ch. 5.1         |     Section 5.1    | Syllabus Quiz (take-home) |    -    |
-|          | 9/1(Th) |           5.1 Sequences \& 5.2 Series          |  Ch 5.1 Cont. \& Ch. 5.2 |     Section 5.2    |             -             |    -    |
-|          |  9/2(F) | 5.2 Series \& 5.3 Divergence and Integral Test | Ch. 5.2 Cont. \& Ch. 5.3 |     Section 5.3    |             -             |    -    |
-|   **2**  |  9/5(M) |               5.3 Divergence Test              |       Ch. 5.3 Cont.      |         TBA        |             -             |    -    |
-|          |  9/7(W) |             3.7 Improper Integrals             |          Ch. 3.7         |         TBA        |             -             |    -    |
-|          | 9/8(Th) |                   Assessment                   |             -            |          -         |            TBA            |   TBA   |
-|          |  9/9(F) |                5.3 Integral Test               |       Ch. 5.3 Cont.      |         TBA        |             -             |    -    |
+|          | 9/1(Th) |           5.1 Sequences Cont. \& 5.2 Series          |  Ch 5.1 Cont. \& Ch. 5.2 |     Section 5.2    |             -             |    -    |
+|          |  9/2(F) | 5.2 Series Cont. \& 5.3 Divergence Test | Ch. 5.2 Cont. |          -            |         -          |    -    |
+|   **2**  |  9/5(M) |               5.3 Divergence Test Cont.             |       Ch. 5.3 Cont.      |         -          |             Discovery Worksheet              |    -    |
+|          |  9/7(W) |             3.7 Improper Integrals             |          Ch. 3.7         |         Section 3.7        |             -             |    -    |
+|          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Series   |
+|          |  9/9(F) |                5.3 Integral Test               |          Ch. 5.3         |         Section 5.3        |             -             |    -    |
 
 <br>
 
