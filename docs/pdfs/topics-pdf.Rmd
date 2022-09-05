@@ -4,7 +4,7 @@ subtitle: "Fall 2022 - University of Portland"
 header-includes: |
   \usepackage{fancyhdr}
   \pagestyle{fancy}
-  \fancyhead[RO,R]{MTH 202A Calculus II - Syllabus}
+  \fancyhead[RO,R]{MTH 202A Calculus II - Topics Schedule}
   \fancyfoot[CO,C]{}
   \fancyfoot[R]{\thepage}
   \usepackage{float}
@@ -36,7 +36,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          | 8/31(W) |                  5.1 Sequences                 |          Ch. 5.1         |     Section 5.1    | Syllabus Quiz (take-home) |    -    |
 |          | 9/1(Th) |           5.1 Sequences Cont. \& 5.2 Series          |  Ch 5.1 Cont. \& Ch. 5.2 |     Section 5.2    |             -             |    -    |
 |          |  9/2(F) | 5.2 Series Cont. \& 5.3 Divergence Test | Ch. 5.2 Cont. |          -            |         -          |    -    |
-|   **2**  |  9/5(M) |               5.3 Divergence Test Cont.             |       Ch. 5.3 Cont.      |         -          |             Discovery Worksheet              |    -    |
+|   **2**  |  9/5(M) |               5.3 Divergence Test Cont.             |       Ch. 5.3 Cont.      |         -          |             Geometric Series Discovery Worksheet              |    -    |
 |          |  9/7(W) |             3.7 Improper Integrals             |          Ch. 3.7         |         Section 3.7        |             -             |    -    |
 |          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Series   |
 |          |  9/9(F) |                5.3 Integral Test               |          Ch. 5.3         |         Section 5.3        |             -             |    -    |
