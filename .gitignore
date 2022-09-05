@@ -1,5 +1,9 @@
 # directories
 docs/reference-calculus-group/
+docs/groupwork/
+docs/homework/
+docs/lab/
+docs/quiz/
 
 .Rproj.user
 .Rhistory
