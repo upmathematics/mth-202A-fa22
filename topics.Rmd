@@ -26,7 +26,11 @@ The "Reading" column in the table below contains a number on which it refers to 
 |   **2**  |  9/5(M) |               [5.3 Divergence Test Cont.](topics/20220905_5.3-divergence-test-cont_class-notes.pdf){target="_blank"}             |       Ch. 5.3 Cont.      |         -          |             Geometric Series Discovery Worksheet              |    -    |
 |          |  9/7(W) |             Sequences and Series Review \& 3.7 Improper Integrals             |          Ch. 3.7         |         -        |             -             |    -    |
 |          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Series   |
-|          |  9/9(F) |                3.7 Improper Integrals Cont. \& 5.3 Integral Test               |          Ch. 5.3         |         Section 3.7        |             -             |    -    |
+|          |  9/9(F) |                3.7 Improper Integrals Cont. \& 5.3 Integral Test               |          Ch. 5.3         |         -        |             -             |    -    |
+|     **3**     |  9/12(M) |                Standard anti-derivatives, Basics of the u-Substitution Technique, & 5.3 Integral Test Cont.               |          Ch. 5.3         |         Section 5.3        |             -             |    -    |
+|          |  9/14(W) |                5.4 Comparison Test               |          Ch. 5.4         |         -        |             -             |    -    |
+|          |  9/15(Th) |                5.4 Comparison Test Cont. & Assessment               |          Ch. 5.4         |         Section 5.4        |             Integral Test and Comparison Test             |    -    |
+|          |  9/16(F) |                5.5 Alternating Series               |          Ch. 5.5         |         -        |             -             |    -    |
 
 <br>
 
