@@ -29,7 +29,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  9/9(F) |                3.7 Improper Integrals Cont. \& 5.3 Integral Test               |          Ch. 5.3         |         -        |             -             |    -    |
 |     **3**     |  9/12(M) |                Standard anti-derivatives, Basics of the u-Substitution Technique, & 5.3 Integral Test Cont.               |          Ch. 5.3         |         Section 5.3        |             -             |    -    |
 |          |  9/14(W) |                5.4 Comparison Test               |          Ch. 5.4         |         -        |             -             |    -    |
-|          |  9/15(Th) |                5.4 Comparison Test Cont. & Assessment               |          Ch. 5.4         |         Section 5.4        |             Integral and Comparison Test Quiz             |    -    |
+|          |  9/15(Th) |                5.4 Comparison Test Cont. & Assessment               |          -         |         Section 5.4        |             Integral and Comparison Test Quiz             |    -    |
 |          |  9/16(F) |                5.5 Alternating Series               |          Ch. 5.5         |         -        |             -             |    -    |
 
 <br>
