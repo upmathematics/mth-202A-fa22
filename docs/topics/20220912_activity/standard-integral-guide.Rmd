@@ -1,0 +1,61 @@
+---
+title: "Standard Integral Guide"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+---
+
+## Rules
+
+> **Linearity**
+
+$$\int \left[a f(x) \pm b g(x)\right] \hspace{5px} dx = a \int f(x) \hspace{5px} dx \pm b \int g(x)  \hspace{5px} dx, \hspace{10px} \text{for constants } a \text{ and } b$$
+
+> **Power**
+
+$$\int x^{a} \hspace{5px} dx = \frac{x^{a+1}}{a+1} + C, \hspace{10px} \text{for constant } a \ne -1$$
+
+> **Substitution**
+
+$$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
+
+## Standard Functions
+
+> **Exponential**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int e^{x} \hspace{5px} dx = e^x +C$$
+  $$\int \frac{1}{x} \hspace{5px} dx = \ln{(|x|)} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int a^x \hspace{5px} dx = \frac{a^x}{\ln{(a)}} + C, \hspace{10px} \text{for constant } a > 0$$
+\end{minipage}
+
+> **Trigonometic**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \sin{(x)} \hspace{5px} dx = - \cos{(x)} + C$$
+  $$\int \cos{(x)} \hspace{5px} dx = \sin{(x)} + C$$
+  $$\int \tan{(x)} \hspace{5px} dx = -\ln{(|\cos{(x)|})} + C$$
+  $$\int \cot{(x)} \hspace{5px} dx = \ln{(|\sin{(x)}|)} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \frac{1}{\sqrt{a^2 - x^2}}  \hspace{5px} dx = \sin^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a > |x|$$
+  $$\int \frac{1}{a^2 + x^2} \hspace{5px} dx = \frac{1}{a} \tan^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a$$
+\end{minipage}
+
+> **Hyperbolic**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \sinh{(x)} \hspace{5px} dx = \cosh{(x)} + C$$
+  $$\int \cosh{(x)} \hspace{5px} dx = \sinh{(x)} + C$$
+  $$\int \tanh{(x)} \hspace{5px} dx = \ln{(\cosh{(x)})} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \frac{1}{\sqrt{x^2 + a^2}} \hspace{5px} dx = \sinh^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a$$
+  $$\int \frac{1}{\sqrt{x^2 - a^2}} \hspace{5px} dx = \cosh^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a < x$$
+\end{minipage}
