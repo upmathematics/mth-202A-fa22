@@ -27,10 +27,10 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  9/7(W) |              [3.7 Improper Integrals \& Sequences and Series Review](topics/20220907_3.7-improper-integrals-and-sequence-and-series-review_class-notes.pdf){target="_blank"}            |          Ch. 3.7         |         -        |             -             |    -    |
 |          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Series   |
 |          |  9/9(F) |                [3.7 Improper Integrals Cont. \& 5.3 Integral Test](topics/20220909_3.7-improper-integrals-cont-and-5.3-integral-test_class-notes.pdf){target="_blank"}               |          Ch. 5.3         |         -        |             -             |    -    |
-|     **3**     |  9/12(M) |                [5.3 Integral Test Cont.](topics/20220912_3.7-improper-integrals-cont_class-notes.pdf){target="_blank"}               |          Ch. 5.3         |         Section 5.3        |             Standard Integrals & Integral Test Worksheet             |    -    |
-|          |  9/14(W) |                5.4 Comparison Test & Integral Test Review               |          Ch. 5.4         |         Section 3.7        |             -             |    -    |
-|          |  9/15(Th) |                5.4 Comparison Test Cont. & Assessment               |          -         |         Section 5.4        |             Improper Integrals & Integral Test Quiz             |    -    |
-|          |  9/16(F) |                5.5 Alternating Series               |          Ch. 5.5         |         Section 5.5        |             -             |    -    |
+|     **3**     |  9/12(M) |                [5.3 Integral Test Cont.](topics/20220912_5.3-integral-test-cont_class-notes.pdf){target="_blank"}               |          Ch. 5.3         |         Section 5.3        |             Standard Integrals & Integral Test Worksheet             |    -    |
+|          |  9/14(W) |                [5.3 Integral Test Cont. & 5.4 Comparison Test](topics/20220914_5.3-integral-test-cont.-and-5.4-comparison-test_class-notes.pdf){target="_blank"}               |          Ch. 5.4         |         Section 3.7        |             -             |    -    |
+|          |  9/15(Th) |                 Improper Integrals and Integral Test Review & Assessment               |          -         |         -        |             Improper Integrals & Integral Test Quiz             |    -    |
+|          |  9/16(F) |                5.4 Comparison Test Cont.               |          Ch. 5.5         |         Section 5.4        |             -             |    -    |
 
 <br>
 
