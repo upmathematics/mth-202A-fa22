@@ -25,16 +25,16 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  9/2(F) | [5.2 Series Cont. \& 5.3 Divergence Test](topics/20220902_5.2-series-and-5.3-divergence-test_class-notes.pdf){target="_blank"} | Ch. 5.2 Cont. |          -            |         -          |    -    |
 |   **2**  |  9/5(M) |               [5.3 Divergence Test Cont.](topics/20220905_5.3-divergence-test-cont_class-notes.pdf){target="_blank"}             |       Ch. 5.3 Cont.      |         -          |             Geometric Series Discovery Worksheet              |    -    |
 |          |  9/7(W) |              [3.7 Improper Integrals \& Sequences and Series Review](topics/20220907_3.7-improper-integrals-and-sequence-and-series-review_class-notes.pdf){target="_blank"}            |          Ch. 3.7         |         -        |             -             |    -    |
-|          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Series   |
+|          | 9/8(Th) |                   Assessment                   |             -            |          -         |            Convergence Quiz            |   Sequences & Series   |
 |          |  9/9(F) |                [3.7 Improper Integrals Cont. \& 5.3 Integral Test](topics/20220909_3.7-improper-integrals-cont-and-5.3-integral-test_class-notes.pdf){target="_blank"}               |          Ch. 5.3         |         -        |             -             |    -    |
 |     **3**     |  9/12(M) |                [5.3 Integral Test Cont.](topics/20220912_5.3-integral-test-cont_class-notes.pdf){target="_blank"}               |          Ch. 5.3         |         Section 5.3        |             Standard Integrals & Integral Test Worksheet             |    -    |
 |          |  9/14(W) |                [5.3 Integral Test Cont. & 5.4 Comparison Test](topics/20220914_5.3-integral-test-cont-and-5.4-comparison-test_class-notes.pdf){target="_blank"}               |          Ch. 5.4         |         Section 3.7        |             -             |    -    |
 |          |  9/15(Th) |                 Improper Integrals and Integral Test Review & Assessment               |          -         |         -        |             Improper Integrals & Integral Test Quiz             |    -    |
 |          |  9/16(F) |                [5.4 Comparison Test Cont.](topics/20220916_5.4-comparison-test-cont_class-notes.pdf){target="_blank"}               |          Ch. 5.4         |         Section 5.4        |             -             |    -    |
-|     **4**     |  9/19(M) |                5.5 Alternating Series               |          Ch. 5.5         |         Section 5.5        |             -             |    -    |
-|          |  9/21(W) |                5.6 Ratio and Root Test              |          Ch. 5.6         |         Section 5.6        |             -             |    -    |
-|          |  9/22(Th) |                 Assessment               |          -         |         -        |             Comparison, Alternating, Ratio and Root Test Quiz             |    All Series Tests    |
-|          |  9/23(F) |                1.5 Substitution               |          Ch. 1.5         |         Section 1.5        |             -             |    -    |
+|     **4**     |  9/19(M) |                [5.5 Alternating Series](topics/20220919_5.5-alternating-series_class-notes.pdf){target="_blank"}               |          Ch. 5.5         |         Section 5.5        |             -             |    -    |
+|          |  9/21(W) |                [5.6 Ratio and Root Test](topics/20220921_5.6-ratio-and-root-test_class-notes.pdf){target="_blank"}              |          Ch. 5.6         |         Section 5.6        |             -             |    -    |
+|          |  9/22(Th) |                 Assessment               |          -         |         -        |             Comparison, Alternating, Ratio and Root Test Quiz             |    Series Convergence Tests    |
+|          |  9/23(F) |                Series Convergence Tests               |          -         |      -       |             Choosing a Convergence Test Worksheet             |    -    |
 
 
 <br>
