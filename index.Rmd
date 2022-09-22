@@ -12,6 +12,7 @@ subtitle: "Fall 2022 - University of Portland"
 | [Home](index.html)          | -                                                                                    |
 | [Syllabus](syllabus.html)   | About the class, class materials and resources, class assessment and expectations |
 | [Topics](topics.html) | Tentative topics, notes, assignments, and books and online resources list        |
+| [Guides](guides.html) | Quick notes on topic such as the standard integrals and the series convergence tests.       |
 
 <br>
 

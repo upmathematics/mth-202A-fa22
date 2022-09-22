@@ -1,0 +1,16 @@
+---
+title: "**Calculus II Guides**"
+subtitle: "Fall 2022 - University of Portland"
+---
+
+<br>
+
+## **Standard Integrals**
+
+[pdf](guides/standard-integrals-guide.pdf){target="_blank"}
+
+## **Sequences and Series Convergence**
+
+[pdf](guides/series-convergence-tests-guide.pdf){target="_blank"}
+
+<br>

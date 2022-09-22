@@ -9,7 +9,9 @@ navbar:
       href: syllabus.html
     - text: "topics"
       href: topics.html
-
+  right:
+    - text: "Guides"
+      href: guides.html
 output:
   html_document:
     theme: yeti
