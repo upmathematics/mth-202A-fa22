@@ -53,7 +53,7 @@ subtitle: "Fall 2022 - University of Portland"
     
 * **Todd Basil (Instructor)**
   * Walk-in (Franz 125)
-  * Tu, 2:00 PM - 3:30 PM
+    * Tu, 2:00 PM - 3:30 PM
     
 * **Sylvia Brown (TA)**
   * Walk-in (Buckley Center 2nd Floor Hallway)
