@@ -1,0 +1,48 @@
+---
+title: "Choosing a Convergence Test Worksheet"
+subtitle: "MTH 202A - Fall 2022 - University of Portland"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 202A Calculus II - Choosing a Convergence Test}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=1in,right=1in,top=0.25in,bottom=1in"
+---
+
+**Instructions:** Provide complete solutions for each problem. Show steps clearly and write your solutions with standard mathematical notations.
+
+**Goals:**
+
+  * To develop intuition on which convergence test to use given a series.
+
+\
+
+For each of the following series, guess if it diverges, converges conditionally or converges absolutely. Keep in mind that you must answer two separate questions: 1. Does the series converge? and 2. Does the series converge absolutely? Name the test(s) you would use to answer each of these questions. Usually you are required to give a detailed solution, but for this worksheet, just briefly describe your overall strategy.
+
+1. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^n (n+\frac{1}{2})}{n-\frac{1}{2}}$
+
+2. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^n n}{e^n}$
+
+3. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n^3 + n}$
+
+4. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^n \ln{(n)}}{n^2}$
+
+5. $\displaystyle \sum_{n=2}^{\infty} \frac{(-1)^n (n^3 + 1)}{(n^4 + n - 4)}$
+
+6. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^n \sqrt[n]{n^7 + n}}{\sqrt{n^9 + n^5}}$
+
+7. $\displaystyle \sum_{n=1}^{\infty} \sqrt{n} 2^{n+1}$
+
+8. $\displaystyle \sum_{n=2}^{\infty} \frac{1}{n\sqrt{\ln{(n)}}}$
+
+9. $\displaystyle \sum_{n=2}^{\infty} \frac{n(-2)^n}{n!}$
+
+10. $\displaystyle \sum_{n=1}^{\infty} \frac{(-1)^n n!}{e^{n^2}}$

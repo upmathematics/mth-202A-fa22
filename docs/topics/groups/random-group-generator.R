@@ -45,4 +45,15 @@ groups <- tibble(group = c("group 1", "group 2", "group 3","group 4"),
                  members = c(g1,g2,g3,g4))
 write_csv(groups,"groups-week3.csv")
 
+## groups for week 4 (2022-09-19 to 2022-09-23)
 
+# randomly generated groups with no constraints
+set.seed(20220923) # set seed
+students_permuted <- sample(students, length(students), replace=FALSE) # randomly permute students
+g1 <- paste(students_permuted[1:3], collapse = ", ") # group 1
+g2 <- paste(students_permuted[4:6], collapse = ", ") # group 2
+g3 <- paste(students_permuted[7:9], collapse = ", ") # group 3
+g4 <- paste(students_permuted[10:13], collapse = ", ") # group 3
+groups <- tibble(group = c("group 1", "group 2", "group 3","group 4"),
+                 members = c(g1,g2,g3,g4))
+write_csv(groups,"groups-week4.csv")
