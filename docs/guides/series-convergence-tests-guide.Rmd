@@ -45,8 +45,6 @@ If there exists a positive, continuous, decreasing function $f$ such that $a_n =
   
   > If $\displaystyle \int_{N}^{\infty} f(x) dx$ diverges, then the series $\sum_{n=1}^{\infty} a_n$ diverges.
 
-\newpage
-
 ## Comparison Test
   
 For $\sum_{n=1}^{\infty} a_n$ with non-negative terms, compare with a known series $\sum_{n=1}^{\infty} b_n$. Typically used for a series similar to a geometric or  p -series. It can sometimes be difficult to find an appropriate series.
@@ -54,6 +52,8 @@ For $\sum_{n=1}^{\infty} a_n$ with non-negative terms, compare with a known seri
   > If $a_n \le b_n$ for all $n \ge N$ and $\sum_{n=1}^{\infty} b_n$ converges, then $\sum_{n=1}^{\infty} a_n$ converges.
   
   > If  $a_n \ge b_n$  for all $n \ge N$  and  $\sum_{n=1}^{\infty} b_n$  diverges, then $\sum_{n=1}^{\infty} a_n$  diverges.
+  
+\newpage
   
 ## Limit Comparison Test
 
@@ -100,3 +100,9 @@ For any series $\sum_{n=1}^{\infty} a_n$, let $\displaystyle \rho = \lim_{n \to 
  > If $\rho = 1$, the test is inconclusive.
 
 This test is often used for series where $|a_n|=b_n^n$.
+
+## Absolute Convergence Test
+
+* A series $\sum_{n=1}^{\infty} a_n$ exhibits absolute convergence if $\sum_{n=1}^{\infty} |a_n|$ converges.
+
+* A series $\sum_{n=1}^{\infty} a_n$ exhibits conditional convergence if $\sum_{n=1}^{\infty} a_n$ converges but $\sum_{n=1}^{\infty} |a_n|$ diverges.

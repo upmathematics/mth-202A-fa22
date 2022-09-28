@@ -30,9 +30,13 @@ $$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
 \begin{minipage}[t]{0.5\textwidth}
   $$\int e^{x} \hspace{5px} dx = e^x +C$$
   $$\int \frac{1}{x} \hspace{5px} dx = \ln{(|x|)} + C$$
+  $$\int a^x \hspace{5px} dx = \frac{a^x}{\ln{(a)}} + C$$
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-  $$\int a^x \hspace{5px} dx = \frac{a^x}{\ln{(a)}} + C, \hspace{10px} \text{for constant } a > 0$$
+  $$\int \ln{(x)} \hspace{5px} dx = x\ln{(x)} - x + C$$
+  
+  $$\int \log_a{(x)} \hspace{5px} dx = \frac{x}{\ln{(a)}} \left(\ln{(x)} - 1 \right) + C$$
+  
 \end{minipage}
 
 > **Trigonometic**
@@ -44,8 +48,8 @@ $$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
   $$\int \cot{(x)} \hspace{5px} dx = \ln{(|\sin{(x)}|)} + C$$
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-  $$\int \frac{1}{\sqrt{a^2 - x^2}}  \hspace{5px} dx = \sin^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a > |x|$$
-  $$\int \frac{1}{a^2 + x^2} \hspace{5px} dx = \frac{1}{a} \tan^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a$$
+  $$\int \frac{1}{\sqrt{a^2 - x^2}}  \hspace{5px} dx = \sin^{-1}{\left(\frac{x}{a}\right)} + C$$
+  $$\int \frac{1}{a^2 + x^2} \hspace{5px} dx = \frac{1}{a} \tan^{-1}{\left(\frac{x}{a}\right)} + C$$
 \end{minipage}
 
 > **Hyperbolic**
@@ -56,6 +60,6 @@ $$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
   $$\int \tanh{(x)} \hspace{5px} dx = \ln{(\cosh{(x)})} + C$$
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-  $$\int \frac{1}{\sqrt{x^2 + a^2}} \hspace{5px} dx = \sinh^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a$$
-  $$\int \frac{1}{\sqrt{x^2 - a^2}} \hspace{5px} dx = \cosh^{-1}{\left(\frac{x}{a}\right)} + C, \hspace{10px} \text{for constant } a < x$$
+  $$\int \frac{1}{\sqrt{x^2 + a^2}} \hspace{5px} dx = \sinh^{-1}{\left(\frac{x}{a}\right)} + C$$
+  $$\int \frac{1}{\sqrt{x^2 - a^2}} \hspace{5px} dx = \cosh^{-1}{\left(\frac{x}{a}\right)} + C$$
 \end{minipage}
