@@ -1,0 +1,26 @@
+---
+title: "Integral Techniques"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+---
+
+> **Linearity**
+
+$$\int \left[a f(x) \pm b g(x)\right] \hspace{5px} dx = a \int f(x) \hspace{5px} dx \pm b \int g(x)  \hspace{5px} dx, \hspace{10px} \text{for constants } a \text{ and } b$$
+
+> **Power Rule**
+
+$$\int x^{a} \hspace{5px} dx = \frac{x^{a+1}}{a+1} + C, \hspace{10px} \text{for constant } a \ne -1$$
+
+> **Integration by Substitution**
+
+$$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
+
+> **Integration by Parts**
+
+$$\int udv = uv - \int vdu$$

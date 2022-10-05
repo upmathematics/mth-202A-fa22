@@ -5,12 +5,20 @@ subtitle: "Fall 2022 - University of Portland"
 
 <br>
 
-## **Standard Integrals**
+## Sequences and Series Convergence
 
-[pdf](guides/standard-integral-guide.pdf){target="_blank"}
+[[pdf](guides/series-convergence-tests-guide.pdf){target="_blank"}]
 
-## **Sequences and Series Convergence**
+## Integral Techniques
 
-[pdf](guides/series-convergence-tests-guide.pdf){target="_blank"}
+[[pdf](guides/integral-techniques.pdf){target="_blank"}]
+
+## Integrals of Standard Functions
+
+[[pdf](guides/integrals-of-standard-functions.pdf){target="_blank"}]
+
+## Law of Exponents and Law of Logarithms ^[Credit to Sylvia Brown for the algebraic laws guide.]
+
+[[pdf](guides/calculus-2-notes-sylvia-b.pdf){target="_blank"}]
 
 <br>

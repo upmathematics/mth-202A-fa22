@@ -1,0 +1,108 @@
+---
+title: "Series Convergence Tests Guide"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Divergence Test
+
+For any series  $\sum_{n=1}^{\infty} a_n$,  evaluate $\displaystyle \lim_{n \to \infty} a_n$. This test cannot prove convergence of a series.
+
+  > If $\lim_{n \to \infty} a_n = 0$, the test is inconclusive.
+  
+  > If $\lim_{n \to \infty} a_n \ne 0$, the series diverges.
+
+## Geometric Series
+
+Geometric Series of the forms $\displaystyle \sum_{n=1}^{\infty} a r^{n-1}$ or $\displaystyle \sum_{n=0}^{\infty} a r^{n}$. This test applies to any geometric series that can be reindexed to be written in the form $a+ar+ar^2+\cdots$, where $a$ is the initial term and $r$ is the ratio.
+
+  > If $|r| < 1$, the series converges to $\displaystyle \frac{a}{1-r}$.
+  
+  > If $|r| \ge 1$, the series diverges.
+  
+## p-Series
+
+Series of the form $\displaystyle = \sum_{n=1}^{\infty} \frac{1}{n^p}$ where $p$ is a real number.
+
+  > If $p > 1$, the series converges.
+  
+  > If $p \le 1$, the series diverges.
+  
+## Integral Test
+
+If there exists a positive, continuous, decreasing function $f$ such that $a_n = f(n)$ for all  $n \ge N$, evaluate $\displaystyle \int_{N}^{\infty} f(x) dx$. This test is limited to those series for which the corresponding function  f  can be easily integrated.
+
+  > If $\displaystyle \int_{N}^{\infty} f(x) dx$ converges, then the series $\sum_{n=1}^{\infty} a_n$ converges.
+  
+  > If $\displaystyle \int_{N}^{\infty} f(x) dx$ diverges, then the series $\sum_{n=1}^{\infty} a_n$ diverges.
+
+## Comparison Test
+  
+For $\sum_{n=1}^{\infty} a_n$ with non-negative terms, compare with a known series $\sum_{n=1}^{\infty} b_n$. Typically used for a series similar to a geometric or  p -series. It can sometimes be difficult to find an appropriate series.
+
+  > If $a_n \le b_n$ for all $n \ge N$ and $\sum_{n=1}^{\infty} b_n$ converges, then $\sum_{n=1}^{\infty} a_n$ converges.
+  
+  > If  $a_n \ge b_n$  for all $n \ge N$  and  $\sum_{n=1}^{\infty} b_n$  diverges, then $\sum_{n=1}^{\infty} a_n$  diverges.
+  
+\newpage
+  
+## Limit Comparison Test
+
+For $\sum_{n=1}^{\infty} a_n$ with positive terms, compare with a series $\sum_{n=1}^{\infty} b_n$ by evaluating $\displaystyle L = \lim_{n \to \infty} \frac{a_n}{b_n}.$
+
+This test is typically used for a series similar to a geometric or p -series. Often easier to apply than the comparison test.
+
+  > If $L$ is a real number and $L \ne 0$, then $\sum_{n=1}^{\infty} a_n$ and $\sum_{n=1}^{\infty} b_n$ both converge or both diverge.
+  
+  > If $L = 0$ and $\sum_{n=1}^{\infty} b_n$ converges, then $\sum_{n=1}^{\infty} a_n$ converges.
+  
+  > If $L = \infty$ and $\sum_{n=1}^{\infty} b_n$ diverges, then $\sum_{n=1}^{\infty} a_n$ diverges.
+
+## Alternating Series
+
+For a series of the forms $\displaystyle \sum_{n=1}^{\infty} (-1)^{n} b_n$ or $\displaystyle \sum_{n=1}^{\infty} (-1)^{n+1} b_n$, 
+  
+  > if $b_{n+1} \le b_n$ for all $n \ge 1$ and 
+  
+  > $\displaystyle \lim_{n \to \infty} bn \to 0$, 
+  
+then the series converges. This test only applies to alternating series.
+
+## Ratio Test
+
+For any series $\sum_{n=1}^{\infty} a_n$ with nonzero terms, let $\displaystyle \rho = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right|.$
+
+  > If $0 \le \rho < 1$,  the series converges absolutely.
+  
+  > If $\rho > 1$ or $\rho = \infty$, the series diverges.
+  
+  > If $\rho = 1$, the test is inconclusive.
+  
+This test is often used for series involving factorials or exponentials.
+
+## Root Test
+
+For any series $\sum_{n=1}^{\infty} a_n$, let $\displaystyle \rho = \lim_{n \to \infty} \sqrt[n]{\left| a_n \right|}.$
+
+ > If $0 \le \rho < 1$,  the series converges absolutely.
+ 
+ > If $\rho > 1$ or $\rho = \infty$, the series diverges.
+ 
+ > If $\rho = 1$, the test is inconclusive.
+
+This test is often used for series where $|a_n|=b_n^n$.
+
+## Absolute Convergence Test
+
+* A series $\sum_{n=1}^{\infty} a_n$ exhibits absolute convergence if $\sum_{n=1}^{\infty} |a_n|$ converges.
+
+* A series $\sum_{n=1}^{\infty} a_n$ exhibits conditional convergence if $\sum_{n=1}^{\infty} a_n$ converges but $\sum_{n=1}^{\infty} |a_n|$ diverges.

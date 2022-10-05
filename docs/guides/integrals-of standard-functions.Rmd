@@ -1,0 +1,50 @@
+---
+title: "Integrals of Standard Functions Guide"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+---
+
+> **Exponential**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int e^{x} \hspace{5px} dx = e^x +C$$
+  $$\int \frac{1}{x} \hspace{5px} dx = \ln{(|x|)} + C$$
+  $$\int a^x \hspace{5px} dx = \frac{a^x}{\ln{(a)}} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \ln{(x)} \hspace{5px} dx = x\ln{(x)} - x + C$$
+  
+  $$\int \log_a{(x)} \hspace{5px} dx = \frac{x}{\ln{(a)}} \left(\ln{(x)} - 1 \right) + C$$
+  
+\end{minipage}
+
+> **Trigonometric**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \sin{(x)} \hspace{5px} dx = - \cos{(x)} + C$$
+  $$\int \cos{(x)} \hspace{5px} dx = \sin{(x)} + C$$
+  $$\int \tan{(x)} \hspace{5px} dx = -\ln{(|\cos{(x)|})} + C$$
+  $$\int \cot{(x)} \hspace{5px} dx = \ln{(|\sin{(x)}|)} + C$$
+  $$\int \sec^2{(x)} \hspace{5px} dx =\tan{(x)} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \frac{1}{\sqrt{a^2 - x^2}}  \hspace{5px} dx = \sin^{-1}{\left(\frac{x}{a}\right)} + C$$
+  $$\int \frac{1}{a^2 + x^2} \hspace{5px} dx = \frac{1}{a} \tan^{-1}{\left(\frac{x}{a}\right)} + C$$
+\end{minipage}
+
+> **Hyperbolic**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \sinh{(x)} \hspace{5px} dx = \cosh{(x)} + C$$
+  $$\int \cosh{(x)} \hspace{5px} dx = \sinh{(x)} + C$$
+  $$\int \tanh{(x)} \hspace{5px} dx = \ln{(\cosh{(x)})} + C$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\int \frac{1}{\sqrt{x^2 + a^2}} \hspace{5px} dx = \sinh^{-1}{\left(\frac{x}{a}\right)} + C$$
+  $$\int \frac{1}{\sqrt{x^2 - a^2}} \hspace{5px} dx = \cosh^{-1}{\left(\frac{x}{a}\right)} + C$$
+\end{minipage}
