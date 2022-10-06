@@ -1,0 +1,53 @@
+---
+title: "Derivatives of Standard Functions"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+header-includes:
+- |
+  \DeclareMathOperator{\sech}{sech}
+---
+
+> **Exponential**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} e^{x} = e^x $$
+
+  $$\frac{d}{dx} a^x = a^x \ln{(a)}$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \ln{(x)} = \frac{1}{x}$$
+  
+  $$\frac{d}{dx} \log_a{(x)} = \frac{1}{x \ln{(a)}}$$
+  
+\end{minipage}
+
+> **Trigonometric**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sin{(x)} = \cos{(x)}$$
+  $$\frac{d}{dx} \cos{(x)} = - \sin{(x)}$$
+  $$\frac{d}{dx} \tan{(x)} = \sec^2{(x)}$$
+  $$\frac{d}{dx} \cot{(x)} = - \csc^2{(x)}$$
+ 
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sin^{-1}{(ax)} = \frac{a}{\sqrt{1-a^2x^2}}$$
+  $$\frac{d}{dx} \cos^{-1}{(ax)} = - \frac{a}{\sqrt{1-a^2x^2}}$$
+\end{minipage}
+
+> **Hyperbolic**
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sinh{(x)} = \cosh{(x)}$$
+  $$\frac{d}{dx} \cosh{(x)} = \sinh{(x)}$$
+  $$\frac{d}{dx} \tanh{(x)} = (\sech{(x)})^2$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sinh^{-1}{\left(ax\right)} = \frac{a}{\sqrt{1 + a^2 x^2}}$$
+  $$\frac{d}{dx} \cosh^{-1}{\left(ax\right)} = \frac{a}{\sqrt{a^2 x^2 - 1}}$$
+\end{minipage}

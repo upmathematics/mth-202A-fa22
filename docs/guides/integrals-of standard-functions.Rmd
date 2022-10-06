@@ -1,5 +1,5 @@
 ---
-title: "Integrals of Standard Functions Guide"
+title: "Integrals of Standard Functions"
 output:
   bookdown::pdf_document2:
     toc: no
