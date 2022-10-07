@@ -43,6 +43,12 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  10/5(W) |            3.2 Trigonometric Integrals                 |          Ch. 3.2         |         Section 3.2        |             -             |    -    |
 |          |  10/6(Th) |                 Assessment               |          -         |         -        |             Integration by Parts Quiz             |    -    |
 |          |  10/7(F) |               3.2 Trigonometric Integrals Cont.               |          -         |      -       |             Trigonometric Integrals Worksheet             |    -    |
+|     **7**     |  10/10(M) |          3.3 Trigonometric Substitution               |          Ch. 3.3         |         Section 3.3        |             -             |    -    |
+|          |  10/12(W) |            3.3 Trigonometric Substitution Cont.                 |          -         |         -        |             -             |    -    |
+|          |  10/13(Th) |                 Assessment               |          -         |         -        |             Trigonometric Integrals and Trigonometric Substitution Quiz             |    -    |
+|          |  10/14(F) |               3.4 Partial Fractions               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
+|    -    |  -  |          Fall Break               |          -         |         -        |             -             |    -    |
+
 
 <br>
 
