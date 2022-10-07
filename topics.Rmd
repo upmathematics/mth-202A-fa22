@@ -40,9 +40,9 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  9/29(Th) |                 All Series tests and Substitution Review & Assessment               |          -         |         -        |             All Series Tests and Substitution Quiz             |    -    |
 |          |  9/30(F) |               [3.1 Integration by Parts](topics/20220930_3.1-integration-by-parts_class-notes.pdf){target="_blank"}               |          Ch. 3.1         |      Section 3.1       |             Integration by Parts Group Example Problems             |    -    |
 |     **6**     |  10/3(M) |          [3.1 Integration by Parts Cont.](topics/20221003_3.1-integration-by-parts-cont_class-notes.pdf){target="_blank"}               |          -         |         -        |             -             |    -    |
-|          |  10/5(W) |            [3.2 Trigonometric Integrals](topics/20221005_3.2-trigonometric-integrals_class-notes.pdf){target="_blank"}                 |          Ch. 3.2         |         Section 3.2        |             -             |    -    |
+|          |  10/5(W) |            3.2 Trigonometric Integrals                 |          Ch. 3.2         |         Section 3.2        |             -             |    -    |
 |          |  10/6(Th) |                 Assessment               |          -         |         -        |             Integration by Parts Quiz             |    -    |
-|          |  10/7(F) |               3.2 Trigonometric Integrals Cont. & 3.3 Trigonometric Substitution               |          Ch. 3.3         |      Section 3.3       |             Trigonometric Substitution Worksheet             |    -    |
+|          |  10/7(F) |               3.2 Trigonometric Integrals Cont.               |          -         |      -       |             Trigonometric Integrals Worksheet             |    -    |
 
 <br>
 
