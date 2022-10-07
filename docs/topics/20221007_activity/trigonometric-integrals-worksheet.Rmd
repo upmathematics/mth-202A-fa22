@@ -19,23 +19,21 @@ geometry: "left=1in,right=1in,top=0.25in,bottom=1in"
 
 **Instructions:** Provide complete solutions for each problem. Show steps clearly and write your solutions with standard mathematical notations.
 
-By using trigonometric identities combined with integration by substitution/parts we'd like to evaluate integrals of the form $\displaystyle \int \sin^{j}{(x)} cos^{k}{(x)} dx$ (for integer values of $j$ and $k$), and $\displaystyle \int \tan^{k}{(x)} \sec^{j}{(x)} dx$ (for integer values of $k$ and $j$).
+**Goals:** By using trigonometric identities combined with integration by substitution/parts we'd like to evaluate integrals of the form $\displaystyle \int \sin^{j}{(x)} cos^{k}{(x)} dx$ (for integer values of $j$ and $k$), and $\displaystyle \int \tan^{k}{(x)} \sec^{j}{(x)} dx$ (for integer values of $k$ and $j$). Work together to discover the techniques that work for these anti-derivatives.
 
-**Goals:** Work together to discover the techniques that work for these anti-derivatives.
+1. Warm-up problem: $\displaystyle \int \cos^{4}{(x)} \sin{(x)}\,dx$
 
-1. Warm-up problem: $\displaystyle \int \cos^{4}{(x)} \sin{(x)} dx$
+2. $\displaystyle \int \sin^{3}{(x)} dx$ (Hint: Use the identity $\sin^{2}{x} + \cos^{2}{x} = 1$. Then make a substitution.)
 
-2. $\displaystyle \int \sin^{3}{(x)} dx$ (Hint: Use the identity $sin^{2}{x} + \cos^{2}{x} = 1$. Then make a substitution.)
+3. $\displaystyle \sin^{5}{(x)} \cos^{2}{(x)}\,dx$ (Hint: Write $\sin^{5}{(x)}$ as $\sin^{4}{(x)} \sin{(x)}$.)
 
-3. $\displaystyle \sin^{5}{(x)} \cos^{2}{(x)} dx$ (Hint: Write $\sin^{5}{(x)}$ as $\sin^{4}{(x)} \sin{(x)}$.)
+4. $\displaystyle \int \sin^{7}{(x)} \cos^{5}{(x)}\,dx$.
 
-4. $\displaystyle \int \sin^{7}{(x)} \cos^{5}{(x)} dx$.
+5. In general, how would you go about trying to evaluate $\displaystyle \int \sin^{j}{(x)} \cos^{k}{(x)}\,dx$, where $j$ is odd? (Hint: consider the previous three problems.)
 
-5. In general, how would you go about trying to and $\displaystyle \int \sin^{j}{(x)} \cos^{k}{(x)} dx$, where $j$ is odd? (Hint: consider the previous three problems.)
+6. Note that the same kind of trick works when the power on $\cos{x}$ is odd. To check that you understand, what trig identity and what integration technique would you use to integrate $\displaystyle \int \cos^{3}{(x)} \sin^{2}{(x)}\,dx$?
 
-6. Note that the same kind of trick works when the power on cos x is odd. To check that you understand, what trig identity and what integration technique would you use to integrate $\displaystyle \int \cos^{3}{(x)} \sin^{2}{(x)} dx$?
-
-7. Now what if the power on $\cos{(x)}$ and $\sin{(x)}$ are both even? Find $\displaystyle \int \sin^{2}{(x)} dx$, in each of the following two ways:
+7. Now what if the power on $\cos{(x)}$ and $\sin{(x)}$ are both even? Find $\displaystyle \int \sin^{2}{(x)}\,dx$, in each of the following two ways:
 
     a. Use the identity $\sin^{2}{(x)} = \frac{1}{2}(1 - \cos{(2x)})$.
     
@@ -43,11 +41,19 @@ By using trigonometric identities combined with integration by substitution/part
     
     c. Show that your answers to parts (a) and (b) above are the same. Hint: Use a double angle formula.
     
-    d. How would you evaluate the integral $\displaystyle \int \sin^{2}{(x)} \cos^{2}{(x)} dx$?
+    d. How would you evaluate the integral $\displaystyle \int \sin^{2}{(x)} \cos^{2}{(x)}\,dx$?
     
 8. Do the integral in problem (2), above, again, but this time by parts, using $u = \sin^{2}{(x)}$ and $dv = \sin{(x)} dx$.
 
 9. Can you show your answers to problems (2) and (8) above are the same? It's another great
 trigonometric identity.
 
-10. Further investigations you may consider (especially for mathematics, physics, and engineering majors): We also would like to be able to solve integrals of the form $\displaystyle \int \tan^{k}{(x)} \sec^{j}{(x)} dx$. These two functions play well with each other, since the derivative of $\tan{(x)}$ is $\sec^{2}{(x)}$ and the derivative of $\sec{(x)}$ is $\sec{(x)} \tan{(x)}$, and since there is a pythagorean identity relating them. It sometimes works to use $u = \tan{(x)}$ and it sometimes works to use $u = \sec{(x)}$. Based on the values of $k$ and $j$, which substitution should you use? Are there cases for which neither substitution works?
+10. We also would like to be able to solve integrals of the form $\displaystyle \int \tan^{k}{(x)} \sec^{j}{(x)}\,dx$. These two functions play well with each other, since the derivative of $\tan{(x)}$ is $\sec^{2}{(x)}$ and the derivative of $\sec{(x)}$ is $\sec{(x)} \tan{(x)}$, and since there is a Pythagorean identity relating them. It sometimes works to use $u = \tan{(x)}$ and it sometimes works to use $u = \sec{(x)}$. Based on the values of $k$ and $j$, which substitution should you use? Are there cases for which neither substitution works? Discuss these ideas and evaluate the following integrals.
+
+    a. $\displaystyle \tan^{5}{(x)} \sec^{2}{(x)}\,dx$
+    
+    b. $\displaystyle \tan^{4}{(x)}\,dx$
+    
+    c. $\displaystyle \sec^{5}{(x)}\,dx$
+    
+    d. $\displaystyle \tan^{2}{(x)}\sec^{2}{(x)}\,dx$
