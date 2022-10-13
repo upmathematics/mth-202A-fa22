@@ -46,7 +46,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |     **7**     |  10/10(M) |          [3.3 Trigonometric Substitution](topics/20221010_3.3-trigonometric-substitution_class-notes.pdf){target="_blank"}               |          Ch. 3.3         |         Section 3.3        |             -             |    -    |
 |          |  10/12(W) |            [3.3 Trigonometric Substitution Cont.](topics/20221012_3.3-trigonometric-substitution-cont_class-notes.pdf)                 |          -         |         -        |             -             |    -    |
 |          |  10/13(Th) |                 Assessment               |          -         |         -        |             Trigonometric Integrals and Trigonometric Substitution Quiz             |    -    |
-|          |  10/14(F) |               3.4 Partial Fractions               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
+|          |  10/14(F) |               3.4 Partial Fracs               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
 |    -    |  -  |          Fall Break               |          -         |         -        |             -             |    -    |
 
 
