@@ -49,7 +49,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  10/14(F) |               3.4 Partial Fractions               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
 |    -    |  -  |          Fall Break               |          -         |         -        |             -             |    -    |
 |     **8**     |  10/24(M) |          3.4 Partial Fractions Cont.               |          Ch. 3.3         |         Section 3.4        |             -             |    -    |
-|          |  10/26(W) |            All Integration Techniques                 |          -         |         Additional Integration Practice        |             -             |    -    |
+|          |  10/26(W) |            3.4 Partial Fractions Cont. \& Integration Techniques Review                 |          -         |         Additional Integration Practice        |             -             |    -    |
 |          |  10/27(Th) |                 Assessment               |          -         |         -        |             Integration Techniques Quiz             |    -    |
 |          |  10/28(F) |               2.1 Areas Between Curves               |          -         |      -       |             Finding Areas Worksheet             |    -    |
 
