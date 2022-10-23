@@ -33,6 +33,8 @@ geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
   $$\int \sec^2{(x)} \hspace{5px} dx =\tan{(x)} + C$$
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
+  $$\int \sec{(x)} \hspace{5px} dx = \ln{(|\sec{(x)} + \tan{(x)}|)} + C$$
+  $$\int \csc{(x)} \hspace{5px} dx = -\ln{(|\csc{(x)} + \cot{(x)}|)} + C$$
   $$\int \frac{1}{\sqrt{a^2 - x^2}}  \hspace{5px} dx = \sin^{-1}{\left(\frac{x}{a}\right)} + C$$
   $$\int \frac{1}{a^2 + x^2} \hspace{5px} dx = \frac{1}{a} \tan^{-1}{\left(\frac{x}{a}\right)} + C$$
 \end{minipage}

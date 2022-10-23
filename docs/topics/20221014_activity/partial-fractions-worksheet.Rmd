@@ -1,0 +1,76 @@
+---
+title: "Partial Fractions Worksheet"
+subtitle: "MTH 202A - Fall 2022 - University of Portland"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 202A Calculus II - Partial Fractions}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=1in,right=1in,top=0.25in,bottom=1in"
+---
+
+$\vspace{-0.50in}$
+
+**Instructions:** Provide complete solutions for each problem. Show steps clearly and write your solutions with standard mathematical notations.
+
+**Goals:** We can integrate some rational functions using a u-substitution or trigonometric substitution, but this method does not always work. We now will learn a method that allows us to express ANY rational function as a sum of functions that can be integrated using old methods. That is, we cannot integrate $\displaystyle \frac{1}{x^2 - x}$ as-is, but it is equivalent to $\displaystyle \frac{1}{x-1} - \frac{1}{x}$, each term of which, we can integrate.
+
+1. Objective: Compute $\displaystyle \int \frac{x-7}{(x+1)(x-3)}\,dx$
+
+    a. $\displaystyle \int \frac{1}{x+1}\,dx$
+    
+    b. $\displaystyle \frac{2}{x+1} - \frac{1}{x-3}$
+    
+    c. $\displaystyle \int \frac{x-7}{(x+1)(x-3)}\,dx$
+    
+2. Objective: Fill in the blanks and compute $\displaystyle \int \frac{10x - 31}{(x-1)(x-4)}\,dx$
+
+    a. $\displaystyle \frac{10x - 31}{(x-1)(x-4)} = \frac{3}{\framebox(20,10){}} + \frac{7}{\framebox(20,10){}}$
+    
+    b. $\displaystyle \int \frac{10x - 31}{(x-1)(x-4)}\,dx$
+    
+3. Objective: Fill in the blanks and compute $\displaystyle \int \frac{x + 14}{(x + 5)(x + 2)}\,dx$.
+
+    a. $\displaystyle \frac{x + 14}{(x + 5)(x + 2)} = \frac{\framebox(20,10){?}}{x+5} + \frac{\framebox(20,10){?}}{x+2}$
+
+        There is no indicator of what the numerators should be, so there is work to be done to find them. If we let the numerators be variables, we can use algebra to solve. That is, we want to find constants $A$ and $B$ that make equation (1) below true for all $x \ne -5, -2,$ which are the same constants making equation (2) below true for ALL $x$.
+\begin{equation}
+\frac{x + 14}{(x + 5)(x + 2)} = \frac{A}{x+5} + \frac{B}{x+2}
+\end{equation}
+\begin{equation}
+x+14 = A(x+2) + B(x+5)
+\end{equation}
+\begin{equation}
+\framebox(20,10){} x + \framebox(30,10){} = \framebox(40,10){} + \framebox(40,10){}
+\end{equation}
+        Note: Two polynomials are equal if corresponding coefficients are equal. For linear functions, this means that $ax + b = cx + d$ for all $x$ exactly when $a = c$ and $b = d$. Alternatively, you can evaluate equation (2) for various $x$'s to get equations relating $A$ and $B$. Some values of $x$ will be more helpful than others.
+\begin{equation}
+\begin{cases}
+    \framebox(30,10){} = & \framebox(40,10){} \\
+    \framebox(30,10){} = & \framebox(40,10){} \\
+\end{cases}
+\end{equation}
+        Continue solving for the constants A and B.
+
+    b. $\displaystyle \int \frac{x + 14}{(x + 5)(x + 2)}\,dx$
+    
+4. Compute $\displaystyle \int \frac{x + 15}{(3x - 4)(x + 1)}\,dx$
+
+5. Objective: $\displaystyle \int \frac{5x - 2}{(x+3)^2}\,dx$
+
+    Here, there are not two different linear factors in the denominator. This cannot be expressed in the form:
+$$\frac{5x - 2}{(x+3)^2} = \frac{5x - 2}{(x+3)(x+3)} \ne \frac{A}{x+3} + \frac{B}{x+3} = \frac{A+B}{x+3}$$
+    However, it can be expressed in the form:
+$$\frac{5x - 2}{(x+3)^2} = \frac{A}{x+3} + \frac{B}{(x+3)^2}$$
+
+    a. Find constants $A$ and $B$ that make the above equation true for all $x \ne -3$.
+    
+    b. Compute $\displaystyle \int \frac{5x - 2}{(x+3)^2}\,dx$

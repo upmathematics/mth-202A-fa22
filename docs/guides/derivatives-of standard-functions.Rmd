@@ -33,9 +33,10 @@ header-includes:
   $$\frac{d}{dx} \cos{(x)} = - \sin{(x)}$$
   $$\frac{d}{dx} \tan{(x)} = \sec^2{(x)}$$
   $$\frac{d}{dx} \cot{(x)} = - \csc^2{(x)}$$
- 
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sec{(x)} = \sec{(x)}\tan{(x)}$$
+  $$\frac{d}{dx} \csc{(x)} = -\cot{(x)}\csc{(x)}$$
   $$\frac{d}{dx} \sin^{-1}{(ax)} = \frac{a}{\sqrt{1-a^2x^2}}$$
   $$\frac{d}{dx} \cos^{-1}{(ax)} = - \frac{a}{\sqrt{1-a^2x^2}}$$
 \end{minipage}

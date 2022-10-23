@@ -24,3 +24,7 @@ $$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
 > **Integration by Parts**
 
 $$\int udv = uv - \int vdu$$
+
+> **Trigonometric Substitution**
+
+
