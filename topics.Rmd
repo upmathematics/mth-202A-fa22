@@ -46,10 +46,10 @@ The "Reading" column in the table below contains a number on which it refers to 
 |     **7**     |  10/10(M) |          [3.3 Trigonometric Substitution](topics/20221010_3.3-trigonometric-substitution_class-notes.pdf){target="_blank"}               |          Ch. 3.3         |         Section 3.3        |             -             |    -    |
 |          |  10/12(W) |            [3.3 Trigonometric Substitution Cont.](topics/20221012_3.3-trigonometric-substitution-cont_class-notes.pdf)                 |          -         |         -        |             -             |    -    |
 |          |  10/13(Th) |                 Assessment               |          -         |         -        |             Trigonometric Integrals and Trigonometric Substitution Quiz             |    -    |
-|          |  10/14(F) |               3.4 Partial Fractions               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
+|          |  10/14(F) |               [3.4 Partial Fractions](topics/20221014_3.4-partial-fractions_class-notes.pdf)               |          -         |      -       |             Partial Fractions Worksheet             |    -    |
 |    -    |  -  |          Fall Break               |          -         |         -        |             -             |    -    |
-|     **8**     |  10/24(M) |          3.4 Partial Fractions Cont.               |          Ch. 3.3         |         Section 3.4        |             -             |    -    |
-|          |  10/26(W) |            3.4 Partial Fractions Cont.                 |          -         |         Additional Integration Practice        |             -             |    -    |
+|     **8**     |  10/24(M) |          [3.4 Partial Fractions Cont.](topics/20221024_3.4-partial-fractions-cont_class-notes.pdf)               |          Ch. 3.3         |         Section 3.4        |             -             |    -    |
+|          |  10/26(W) |            [3.4 Partial Fractions Cont. Cont.](topics/20221026_3.4-partial-fractions-cont-cont_class-notes.pdf)                 |          -         |         Additional Integration Practice        |             -             |    -    |
 |          |  10/27(Th) |                 Assessment               |          -         |         -        |             Partial Fractions Quiz             |    All Integration Techniques    |
 |          |  10/28(F) |               2.1 Areas Between Curves               |          -         |      -       |             Finding Areas Worksheet             |    -    |
 
