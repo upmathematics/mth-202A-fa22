@@ -51,7 +51,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |     **8**     |  10/24(M) |          [3.4 Partial Fractions Cont.](topics/20221024_3.4-partial-fractions-cont_class-notes.pdf)               |          Ch. 3.3         |         Section 3.4        |             -             |    -    |
 |          |  10/26(W) |            [3.4 Partial Fractions Cont. Cont.](topics/20221026_3.4-partial-fractions-cont-cont_class-notes.pdf)                 |          -         |         Additional Integration Practice        |             -             |    -    |
 |          |  10/27(Th) |                 Assessment               |          -         |         -        |             Partial Fractions Quiz             |    All Integration Techniques    |
-|          |  10/28(F) |               2.1 Areas Between Curves               |          -         |      -       |             Finding Areas Worksheet             |    -    |
+|          |  10/28(F) |               All Integration Techniques & Re-assessments               |          -         |      -       |             -             |    -    |
 
 
 <br>
