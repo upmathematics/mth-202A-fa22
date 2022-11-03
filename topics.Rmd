@@ -52,8 +52,8 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  10/26(W) |            [3.4 Partial Fractions Cont. Cont.](topics/20221026_3.4-partial-fractions-cont-cont_class-notes.pdf)                 |          -         |         Additional Integration Practice        |             -             |    -    |
 |          |  10/27(Th) |                 Assessment               |          -         |         -        |             Partial Fractions Quiz             |    All Integration Techniques    |
 |          |  10/28(F) |               All Integration Techniques & Re-assessments               |          -         |      -       |             -             |    -    |
-|     **9**     |  10/31(M) |          2.1 Area Between Curves               |          Ch. 2.1         |         Section 2.1        |             -             |    -    |
-|          |  11/2(W) |            2.1 Area Between Curves Cont. & 2.2 Volume by Slicing                 |          -         |         Section 2.2        |             -             |    -    |
+|     **9**     |  10/31(M) |          [2.1 Area Between Curves](topics/20221031_2.1-area-between-curves_class-notes.pdf)               |          Ch. 2.1         |         Section 2.1        |             -             |    -    |
+|          |  11/2(W) |            [2.1 Area Between Curves Cont. & 2.2 Volume by Slicing](topics/20221102_2.1-area-between-curves-cont-and-2.2-volume-by-slicing_class-notes.pdf)                 |          -         |         Section 2.2        |             -             |    -    |
 |          |  11/3(Th) |                 2.2 Volume by Slicing Cont. & Assessment               |          -         |         -        |             All Integration Techniques & Area Between Curves Quiz             |    -    |
 |          |  11/4(F) |               2.2 Volume by Slicing Cont.               |          -         |      -       |             -             |    -    |
 
