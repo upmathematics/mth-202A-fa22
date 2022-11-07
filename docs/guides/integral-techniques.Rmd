@@ -40,7 +40,7 @@ $$\int udv = uv - \int vdu$$
 \hline
 $\sqrt{a^2 - x^2}$ & \begin{tabular}[c]{@{}l@{}}$x = a\sin{(\theta)}$\\ $dx = a\cos{(\theta)}d\theta$\\ $\sqrt{a^2 - x^2} = a\cos{(\theta)}$\end{tabular}              \\ \hline
 $\sqrt{a^2 + x^2}$ & \begin{tabular}[c]{@{}l@{}}$x = a\tan{(\theta)}$\\ $dx = a\sec^2{(\theta)}d\theta$\\ $\sqrt{a^2 + x^2} = a\sec{(\theta)}$\end{tabular}            \\ \hline
-$\sqrt{x^2 - a^2}$ & \begin{tabular}[c]{@{}l@{}}$x = a\sec{(\theta)}$\\ $dx = \sec{(\theta)}\tan{(\theta)}d\theta$\\ $\sqrt{x^2 - a^2} = a\tan{(\theta)}$\end{tabular} \\ \hline
+$\sqrt{x^2 - a^2}$ & \begin{tabular}[c]{@{}l@{}}$x = a\sec{(\theta)}$\\ $dx = a\sec{(\theta)}\tan{(\theta)}d\theta$\\ $\sqrt{x^2 - a^2} = a\tan{(\theta)}$\end{tabular} \\ \hline
 \end{tabular}
 \end{table}
 ```
