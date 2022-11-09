@@ -54,13 +54,12 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  10/28(F) |               All Integration Techniques & Re-Assessments               |          -         |      -       |             -             |    -    |
 |     **9**     |  10/31(M) |          [2.1 Area Between Curves](topics/20221031_2.1-area-between-curves_class-notes.pdf)               |          Ch. 2.1         |         Section 2.1        |             -             |    -    |
 |          |  11/2(W) |            [2.1 Area Between Curves Cont. & 2.2 Volume by Slicing](topics/20221102_2.1-area-between-curves-cont-and-2.2-volume-by-slicing_class-notes.pdf)                 |          -         |         Section 2.2        |             -             |    -    |
-|          |  11/3(Th) |                 2.2 Volume by Slicing Cont. & Assessment               |          -         |         -        |             All Integration Techniques & Area Between Curves Quiz             |    -    |
-|          |  11/4(F) |               2.2 Volume by Slicing Cont.               |          -         |      -       |             -             |    -    |
-|     **10**     |  11/7(M) |          2.2 Volume by Slicing Cont. & 2.3 Cylindrical Shells               |          Ch. 2.2         |         -        |             -             |    -    |
-|          |  11/9(W) |            2.3 Cylindrical Shells                 |          -         |         Section 2.3        |             -             |    -    |
+|          |  11/3(Th) |                 Assessment               |          -         |         -        |             All Integration Techniques & Area Between Curves Quiz             |    -    |
+|          |  11/4(F) |               [2.2 Volume by Slicing Cont.](topics/20221104_2.2-volume-by-slicing-cont_class-notes.pdf)               |          -         |      -       |             -             |    -    |
+|     **10**     |  11/7(M) |          [2.2 Volume by Slicing Cont. & 2.3 Cylindrical Shells](topics/20221107_2.2-volume-by-slicing-cont-and-2.3-cylindrical-shells_class-notes.pdf)               |          Ch. 2.2         |         -        |             -             |    -    |
+|          |  11/9(W) |            [2.3 Cylindrical Shells Cont.](topics/20221109_2.3-cylindrical-shells-cont_class-notes.pdf)                 |          -         |         Section 2.3        |             -             |    -    |
 |          |  11/10(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Volume by disk and Washer methods, and other Core Learning Targets             |    -    |
-|          |  11/11(F) |               2.3 Cylindrical Shells               |          -         |      -       |             Areas and Volumes Worksheet             |    -    |
-
+|          |  11/11(F) |               2.3 Cylindrical Shells Cont.               |          -         |      -       |             Areas and Volumes Worksheet             |    -    |
 
 <br>
 
