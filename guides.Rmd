@@ -25,6 +25,10 @@ subtitle: "Fall 2022 - University of Portland"
 
 [[pdf](guides/derivatives-of-standard-functions.pdf){target="_blank"}]
 
+## Integral Applications
+
+[[pdf](guides/integral-applications.pdf){target="_blank"})]
+
 ## Law of Exponents and Law of Logarithms ^[Credit to Sylvia Brown for the algebraic laws guide.]
 
 [[pdf](guides/calculus-2-notes-sylvia-b.pdf){target="_blank"}]

@@ -62,7 +62,7 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  11/11(F) |               -               |          -         |      -       |             -             |    -    |
 |     **11**     |  11/14(M) |          [2.4 Arc Length of A curve and Surface Area](topics/20221114_2.4-arc-length-of-a-curve-and-surface-area_class-notes.pdf)              |          Ch. 2.4         |         Section 2.4        |             -             |    -    |
 |          |  11/16(W) |            6.1 Power Series                 |          Ch. 6.1         |         Section 6.1        |             -             |    -    |
-|          |  11/17(Th) |                 6.1 Power Series Cont., Assessments & Re-Assessments               |          -         |         -        |             Arc Length and Surface Area, and other Core Learning Targets             |    -    |
+|          |  11/17(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Arc Length and Surface Area, and other Core Learning Targets             |    -    |
 |          |  11/18(F) |               6.2 Properties of Power Series               |          -         |      -       |             Power Series Worksheet             |    -    |
 
 <br>
