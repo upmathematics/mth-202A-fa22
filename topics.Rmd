@@ -61,9 +61,11 @@ The "Reading" column in the table below contains a number on which it refers to 
 |          |  11/10(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Volume by disk and Washer methods, and other Core Learning Targets             |    -    |
 |          |  11/11(F) |               -               |          -         |      -       |             -             |    -    |
 |     **11**     |  11/14(M) |          [2.4 Arc Length of A curve and Surface Area](topics/20221114_2.4-arc-length-of-a-curve-and-surface-area_class-notes.pdf)              |          Ch. 2.4         |         Section 2.4        |             -             |    -    |
-|          |  11/16(W) |            6.1 Power Series                 |          Ch. 6.1         |         Section 6.1        |             -             |    -    |
+|          |  11/16(W) |            [6.1 Power Series](topics/20221116_6.1-power-series_class-notes.pdf)                 |          Ch. 6.1         |         Section 6.1        |             -             |    -    |
 |          |  11/17(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Arc Length and Surface Area, and other Core Learning Targets             |    -    |
-|          |  11/18(F) |               6.2 Properties of Power Series               |          -         |      -       |             Power Series Worksheet             |    -    |
+|          |  11/18(F) |               [6.2 Properties of Power Series](topics/20221118_6.2-properties-of-power-series_class-notes.pdf)               |          Ch. 6.2         |      Section 6.2       |             -             |    -    |
+|     **12**     |  11/21(M) |         6.3 Taylor and Maclaurin Series              |          Ch. 6.3         |         Section 6.3        |             -             |    -    |
+|          |  11/23(W) |            6.4 Working with Taylor Series                 |          Ch. 6.4         |         Section 6.4        |             -             |    -    |
 
 <br>
 
