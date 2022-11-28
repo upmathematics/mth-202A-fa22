@@ -67,9 +67,13 @@ The "Reading" column in the table below contains a number on which it refers to 
 |     **12**     |  11/21(M) |         6.3 Taylor and Maclaurin Series              |          Ch. 6.3         |         Section 6.3        |             -             |    -    |
 |          |  11/23(W) |            6.4 Working with Taylor Series                 |          Ch. 6.4         |         Section 6.4        |             -             |    -    |
 |     **13**     |  11/28(M) |          7.1 Parametric Equations              |          Ch. 7.1         |         Section 7.1        |             -             |    -    |
-|          |  11/30(W) |            7.1 Parametric Equations Cont. & 7.2 Calculus of Parametric Curves                 |          Ch. 7.2         |         Section 7.2        |             -             |    -    |
+|          |  11/30(W) |            7.2 Calculus of Parametric Curves                 |          Ch. 7.2         |         Section 7.2        |             -             |    -    |
 |          |  12/1(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Power Series, Taylor and Maclaurin Series, Parametric Equations, and other Core Learning Targets             |    Volumes and Power Series    |
 |          |  12/2(F) |               7.2 Calculus of Parametric Curves Cont.               |          -         |      -       |             Parametric Curves Worksheet             |    -    |
+|     **14**     |  12/5(M) |          7.3 Polar Coordinates              |          Ch. 7.3         |         Section 7.3        |             -             |    -    |
+|          |  12/7(W) |            7.4 Area and Arc Length in Polar Coordinates                 |          Ch. 7.2         |         Section 7.4        |             -             |    -    |
+|          |  12/8(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Calculus of Parametric Curves, Polar Coordinates, and other Core Learning Targets             |    -    |
+|          |  12/9(F) |               Final Exam Review               |          -         |      -       |             -             |    -    |
 
 <br>
 
