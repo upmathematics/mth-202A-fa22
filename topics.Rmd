@@ -67,11 +67,11 @@ The "Reading" column in the table below contains a number on which it refers to 
 |     **12**     |  11/21(M) |         [6.3 Taylor and Maclaurin Series](topics/20221121_6.3-taylor-and-maclaurin-series_class-notes.pdf)              |          Ch. 6.3         |         Section 6.3        |             -             |    -    |
 |          |  11/23(W) |            [6.4 Working with Taylor Series](topics/20221123_6.4-working-with-taylor-series_class-notes.pdf)                 |          Ch. 6.4         |         Section 6.4        |             -             |    -    |
 |     **13**     |  11/28(M) |          [7.1 Parametric Equations](topics/20221128_7.1-parametric-equations_class-notes.pdf)              |          Ch. 7.1         |         Section 7.1        |             -             |    Volumes and Power Series    |
-|          |  11/30(W) |            7.2 Calculus of Parametric Curves                 |          Ch. 7.2         |         Section 7.2        |             -             |    -    |
+|          |  11/30(W) |            [7.2 Calculus of Parametric Curves](topics/20221130_7.2-calculus-of-parametric-curves_class-notes.pdf)                 |          Ch. 7.2         |         Section 7.2        |             -             |    -    |
 |          |  12/1(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Power Series, Taylor and Maclaurin Series, and other Core Learning Targets             |    -    |
-|          |  12/2(F) |               7.2 Calculus of Parametric Curves Cont.               |          -         |      -       |             Parametric Curves Worksheet             |    -    |
-|     **14**     |  12/5(M) |          7.3 Polar Coordinates              |          Ch. 7.3         |         Section 7.3        |             -             |    -    |
-|          |  12/7(W) |            7.3 Polar Coordinates Cont.                 |          -         |         -        |             -             |    -    |
+|          |  12/2(F) |               [7.2 Calculus of Parametric Curves Cont.](topics/20221202_7.2-calculus-of-parametric-curves-cont_class-notes.pdf)               |          -         |      -       |             Parametric Curves Worksheet             |    -    |
+|     **14**     |  12/5(M) |          [7.3 Polar Coordinates](topics/20221205_7.3-polar-coordinates_class-notes.pdf)              |          Ch. 7.3         |         Section 7.3        |             -             |    -    |
+|          |  12/7(W) |            [7.3 Polar Coordinates Cont.](topics/20221207_7.3-polar-coordinates-cont_class-notes.pdf)                 |          -         |         -        |             -             |    -    |
 |          |  12/8(Th) |                 Assessments & Re-Assessments               |          -         |         -        |             Parametric Equations, Calculus of Parametric Curves, Polar Coordinates, and other Core Learning Targets             |    -    |
 |          |  12/9(F) |               Final Exam Review               |          -         |      -       |             -             |    -    |
 
