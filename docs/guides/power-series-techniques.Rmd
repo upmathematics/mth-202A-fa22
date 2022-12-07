@@ -1,0 +1,53 @@
+---
+title: "Power Series Techniques"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## General Form of the Power Series
+
+A series of the form
+$\displaystyle \sum_{n=0}^{\infty} c_n x^n = c_0 + c_1 x + c_2 x^2 + \cdots$ is a power series centered at $x=0$.
+
+A series of the form $\displaystyle \sum_{n=0}^{\infty} c_n (x-a)^n = c_0 + c_1 (x-a) + c_2 (x-a)^2 + \cdots$ is a power series centered at $x=a$.
+
+## Convergence of Power Series
+
+Consider the power series $\displaystyle \sum_{n=0}^{\infty} c_n (x-a)^n$.
+
+  * If the power series converges at $x=a$, the radius of convergence is defined to be $R=0$.
+  * If the power series converges for all $x$, then the radius of convergence is $R = \infty$.
+  * If the power series converges for values of $x$ which $|x-a|<R$ or $a-R < x < a+R$, the radius of convergence is R.
+  * The interval of convergence is the interval $(a-R,a+R)$ including the end points where the power series converges.
+    
+Use the ratio test to determine the radius and interval of convergence.
+
+  * *Step 1:* Let $\displaystyle a_n = c_n (x-a)^n$ and $\displaystyle a_{n+1} = c_{n+1} (x-a)^{n+1}$.
+  * *Step 2:* Simplify ratio $\displaystyle \frac{|a_{n+1}|}{|a_n|} = \frac{|c_{n+1} (x-a)^{n+1}|}{|c_n (x-a)^n|} = \frac{c_{n+1}}{c_n} (x-a)$
+  * *Step 3:* Compute $\displaystyle \rho = \lim_{n\to\infty} \frac{|a_{n+1}|}{|a_n|}$.
+  * *Step 4:* Interpret the results.
+      - If $\rho = 0$, the $R = \infty$. The power series converges for all $x$.
+      - If $\rho = N \cdot |x-a|$, where $N$ is a finite positive number, then $R = \frac{1}{N}$. The interval of convergence includes $(a-\frac{1}{N},a+\frac{1}{N})$, and possibly the end points.
+      - If $\rho \to \infty$, the $R=0$. The power series converges at $x=a$ and nowhere else.
+  * *Step 5:* If interval of convergence is $(a-\frac{1}{N},a+\frac{1}{N})$, the end points $x = a - \frac{1}{N}$ and $x = a + \frac{1}{N}$ may or may not converge. To determine whether the end points converge, enter them into the power series one at a time and use a series convergence test.
+
+## Taylor and Maclaurin Series
+
+If $f(x)$ has derivatives of all orders at $x = a$, then the Taylor series for function $f(x)$ at $a$ is
+$$\sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x-a)^n = f(a) + \frac{f'(a)}{1!} (x-a) + \frac{f^{''}(a)}{2!} (x-a)^2 + \cdots.$$
+The Taylor series for $f(x)$ at $0$ is known as the Maclaurin series for $f(x)$.
+
+## Taylor Polynomials
+
+If $f(x)$ has $n$ derivatives at $x = a$, then the $n$th Taylor polynomial for $f(x)$ at $a$ is
+$$p_n(x) = f(a) + \frac{f'(a)}{1!} (x-a) + \frac{f^{''}(a)}{2!}(x-a)^2 + \cdots + \frac{f^{(n)}(a)}{n!} (x-a)^n.$$
+The $n$th Taylor polynomial for $f(x)$ at $0$ is known as the $n$th Maclaurin polynomial for $f(x)$.

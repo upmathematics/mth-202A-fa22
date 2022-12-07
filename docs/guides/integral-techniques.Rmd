@@ -11,27 +11,27 @@ link-citations: yes
 geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
 ---
 
-> **Linearity**
+## Linearity
 
 $$\int \left[a f(x) \pm b g(x)\right] \hspace{5px} dx = a \int f(x) \hspace{5px} dx \pm b \int g(x)  \hspace{5px} dx, \hspace{10px} \text{for constants } a \text{ and } b$$
 
 
-> **Power Rule**
+## Power Rule
 
 $$\int x^{a} \hspace{5px} dx = \frac{x^{a+1}}{a+1} + C, \hspace{10px} \text{for constant } a \ne -1$$
 
 
-> **Integration by Substitution**
+## Integration by Substitution
 
 $$\int f(u(x)) \frac{du}{dx} \hspace{5px} dx = \int f(u) du$$
 
 
-> **Integration by Parts**
+## Integration by Parts
 
 $$\int udv = uv - \int vdu$$
 
 
-> **Trigonometric Substitution**
+## Trigonometric Substitution
 
 ```{=latex}
 \begin{table}[htbp!]
@@ -46,7 +46,7 @@ $\sqrt{x^2 - a^2}$ & \begin{tabular}[c]{@{}l@{}}$x = a\sec{(\theta)}$\\ $dx = a\
 ```
 
 
-> **Partial Fractions**
+## Partial Fractions
 
 ```{=latex}
 \begin{table}[htbp!]

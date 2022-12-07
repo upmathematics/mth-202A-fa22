@@ -12,7 +12,7 @@ header-includes:
   \DeclareMathOperator{\sech}{sech}
 ---
 
-> **Exponential**
+## Exponential
 
 \begin{minipage}[t]{0.5\textwidth}
   $$\frac{d}{dx} e^{x} = e^x $$
@@ -26,7 +26,7 @@ header-includes:
   
 \end{minipage}
 
-> **Trigonometric**
+## Trigonometric
 
 \begin{minipage}[t]{0.5\textwidth}
   $$\frac{d}{dx} \sin{(x)} = \cos{(x)}$$
@@ -41,7 +41,7 @@ header-includes:
   $$\frac{d}{dx} \cos^{-1}{(ax)} = - \frac{a}{\sqrt{1-a^2x^2}}$$
 \end{minipage}
 
-> **Hyperbolic**
+## Hyperbolic
 
 \begin{minipage}[t]{0.5\textwidth}
   $$\frac{d}{dx} \sinh{(x)} = \cosh{(x)}$$

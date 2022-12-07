@@ -11,38 +11,38 @@ link-citations: yes
 geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
 ---
 
-> **Area between two curves, integrating on the x-axis**
+## Area between two curves, integrating on the x-axis
 
 $$A = \int_a^b [f(x) - g(x)]\,dx$$
 
-> **Area between two curves, integrating on the y-axis**
+## Area between two curves, integrating on the y-axis
 
 $$A = \int_c^d [u(y) - v(y)]\,dy$$
 
-> **Disk Method along the x-axis**
+## Disk Method along the x-axis
 
 $$V = \int_a^b \pi [f(x)]^2\,dx$$
 
-> **Disk Method along the y-axis**
+## Disk Method along the y-axis
 
 $$V = \int_c^d \pi[g(y)]^2\,dy$$
 
-> **Washer Method**
+## Washer Method**
 
 $$V = \int_a^b \pi[(f(x))^2 - (g(x))^2]\,dx$$
 
-> **Method of Cylindrical Shells**
+## Method of Cylindrical Shells
 
 $$V = \int_a^b (2\pi xf(x))\,dx$$
 
-> **Arc Length of a Function of x**
+## Arc Length of a Function of x
 
 $$\text{Arc Length} = \int_a^b \sqrt{1 + [f'(x)]^2}\,dx$$
 
-> **Arc Length of a Function of y**
+## Arc Length of a Function of y
 
 $$\text{Arc Length} = \int_c^d \sqrt{1 + [g'(y)]^2}\,dy$$
 
-> **Surface Area of a Function of x**
+## Surface Area of a Function of x
 
 $$\text{Surface Area} = \int_a^b \left( 2\pi f(x) \sqrt{1 + (f'(x))^2} \right)\,dx$$

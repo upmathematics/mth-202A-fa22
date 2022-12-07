@@ -9,26 +9,26 @@ link-citations: yes
 geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
 ---
 
-> **Linearity**
+## Linearity
 
 $$\frac{d}{dx} \left[ af(x) + bg(x) \right] = a \cdot \frac{d}{dx} f(x) + b \cdot \frac{d}{dx} g(x)$$
 
-> **Product Rule**
+## Product Rule
 
 $$\frac{d}{dx} f(x)g(x) = \frac{d}{dx} f(x) \cdot g(x) + f(x) \cdot \frac{d}{dx} g(x)$$
 
-> **Quotient Rule**
+## Quotient Rule
 
 $$\frac{d}{dx} \frac{f(x)}{g(x)} = \frac{\frac{d}{dx} f(x) \cdot g(x) - f(x) \cdot \frac{d}{dx} g(x)}{(g(x))^2}$$
 
-> **Power Rule**
+## Power Rule
 
 $$\frac{d}{dx} x^n = nx^{n-1}$$
 
-> **Extended Power Rule**
+## Extended Power Rule
 
 $$\frac{d}{dx} (f(x))^n = n(f(x))^{n-1} \cdot \frac{d}{dx} f(x)$$
 
-> **Chain Rule**
+## Chain Rule
 
 $$\frac{d}{dx} f(g(x)) = \frac{d}{dx} f(g(x)) \cdot \frac{d}{dx} g(x)$$
